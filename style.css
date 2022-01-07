@@ -6,9 +6,109 @@ body{
 
 h1{
     font-size: 50px;
-    border-left: 5px solid red;
+    border-left: 4px solid red;
     padding-left: 10px;
+}
+h2{
+    size: 150px;
+    text-align: center;
+}
+h3{
+    font-size: 30px ;
+}
+.mission{
+    color: rgb(4, 4, 85);
 }
 .mission-2022-color{
     color: orange;
+}
+.button{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: rgb(238, 66, 66);
+    padding: 15px;
+    border-radius: 10px;
+}
+.half-width{
+    width: 40%;
+    text-align: justify;
+}
+.half-width img{
+    width: 70%;
+    margin-left: 100px;
+}
+.first-section{
+    display: flex;
+    margin: 10px;
+}
+.Second-section{
+    display: flex;
+    margin: 30px;
+}
+.one-third-width{
+        display: flex;
+        margin-bottom: 100px;
+        text-align: justify;
+}
+.one-third-width img{
+    width: 33.33%;
+}
+.width-mission{
+    background-color: rgb(201, 243, 243);
+    border-radius: 20px;
+    margin: 15px 15px;
+    padding: 15px;
+}
+.width-vission{
+    background-color: rgb(243, 200, 243);
+    border-radius: 20px;
+    margin: 15px 15px;
+    padding: 15px;
+}
+.width-goal{
+    background-color: rgb(243, 229, 208);
+    border-radius: 20px;
+    margin: 15px 15px;
+    padding: 15px;
+}
+.Third-section{
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px
+}
+.first-half-part img{
+    width: 100%
+}
+.second-half-part{
+    text-align: justify;
+    margin-left: 30px;
+    padding-left: 30px;
+    width: 60%
+}
+.fourth-section{
+    display: flex;
+    text-align: justify;
+    margin-bottom: 200px;
+    
+    
+}
+.forth-section h4{
+    font-size: 30px;
+}
+.text-part h4{
+    display: flex;
+    text-align: justify;
+    width: 40%;
+}
+.pppp{
+    margin-top: 10px;
+    text-align: justify;
+    width: 40%;
+}
+.pic-part img{
+    width: 25%;
+    margin-bottom: 250;
+    margin-left: 700px;
+    margin-top: -300px;
 }
