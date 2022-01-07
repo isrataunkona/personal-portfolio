@@ -112,3 +112,12 @@ h3{
     margin-left: 700px;
     margin-top: -300px;
 }
+footer{
+    background-color: rgb(2, 2, 31);
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+#footer-year{
+    color: tomato;
+}
